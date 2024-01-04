@@ -6,10 +6,10 @@ Welcome to the Firebase with ReactJS repository! This repository is designed to 
 
 ## Contents
 
-1. **PDF Guide: [Firebase with ReactJS Basics]([link-to-your-pdf-file.pdf](https://github.com/nil-01/FirebaseLearning/blob/main/Learning%20Firebase.docx))**
+1. **PDF Guide: [Firebase with ReactJS Basics]([https://github.com/nil-01/FirebaseLearning])**
    - Explore the fundamentals of integrating Firebase with ReactJS. This guide covers authentication, Firestore, and basic Firebase features for ReactJS applications.
 
-2. **Demo Project by Nil: [Firebase-React-Demo]([link-to-demo-project](https://github.com/nil-01/FirebaseLearning))**
+2. **Demo Project by Nil: [Firebase-React-Demo]([https://github.com/nil-01/FirebaseLearning])**
    - Nil has created a practical demo project showcasing the use of Firebase with ReactJS. Dive into the source code and learn by example.
 
 ## Getting Started
