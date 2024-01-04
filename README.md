@@ -1,9 +1,3 @@
-Certainly! Here's an updated version of the readme file with the provided link:
-
-```markdown
-# Firebase with ReactJS Readme
-
-## Overview
 
 Welcome to the Firebase with ReactJS repository! This repository is designed to provide a comprehensive guide for learning Firebase with ReactJS. Additionally, a demo project created by Nil is included for hands-on learning.
 
